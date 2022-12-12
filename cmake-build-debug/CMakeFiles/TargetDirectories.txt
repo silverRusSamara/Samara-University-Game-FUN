@@ -1,0 +1,3 @@
+C:/Users/nicit/OneDrive/Рабочий стол/LW/MyGame/cmake-build-debug/CMakeFiles/MyGame.dir
+C:/Users/nicit/OneDrive/Рабочий стол/LW/MyGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicit/OneDrive/Рабочий стол/LW/MyGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
